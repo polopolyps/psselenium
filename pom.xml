@@ -30,11 +30,10 @@
     </snapshotRepository>
    </distributionManagement>
 
-
    <scm>
-    <connection>scm:git:git@github.com:atex-polopoly/psselenium.git</connection>
-    <developerConnection>scm:git:git@github.com:atex-polopoly/psselenium.git</developerConnection>
-    <url>scm:git:git@github.com:atex-polopoly/psselenium.git</url>
+    <connection>scm:git:git@github.com:polopolyps/psselenium.git</connection>
+    <developerConnection>scm:git:git@github.com:polopolyps/psselenium.git</developerConnection>
+    <url>https://github.com/git@github.com:polopolyps/psselenium.git</url>
    </scm>
 
   <dependencies>
