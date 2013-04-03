@@ -34,8 +34,8 @@
    <scm>
     <connection>scm:git:git@github.com:atex-polopoly/psselenium.git</connection>
     <developerConnection>scm:git:git@github.com:atex-polopoly/psselenium.git</developerConnection>
-    <url>https://github.com/atex-polopoly/psselenium</url>
-  </scm>
+    <url>scm:git:git@github.com:atex-polopoly/psselenium.git</url>
+   </scm>
 
   <dependencies>
   
